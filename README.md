@@ -1,2 +1,14 @@
-# 永乐大典prompt
-永乐大典Prompt 百科致力于系统化收集、整理与分享大语言模型（LLM）及多模态模型的高质量 Prompt。 无论是科研、写作、教学，还是产品开发，您都能在此找到可即插即用的高效提示词，并了解它们背后的设计思路与最佳实践。
+# Prompt Encyclopedia
+
+Welcome to the Prompt Encyclopedia! This repository is a collection of prompts for various AI models and tasks.
+
+## Structure
+
+Prompts are organized by language (English and Chinese) and then by category.
+
+- `prompts/en/`: English prompts
+- `prompts/zh/`: Chinese prompts
+
+## Contributing
+
+Contributions are welcome! Please see the `README_zh.md` for more details if you are a Chinese speaker, or open an issue to discuss potential additions if you are an English speaker.
