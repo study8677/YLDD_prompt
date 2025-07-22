@@ -9,6 +9,7 @@ Prompts are organized by language (English and Chinese) and then by category.
 
 - `prompts/en/`: English prompts
 - `prompts/zh/`: Chinese prompts
+- Example directories under `prompts/zh/` include `writing/`, `business/`, and `customer_support`, showcasing a range of Chinese prompts.
 
 ## Contributing
 
