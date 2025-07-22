@@ -10,6 +10,7 @@ Prompts are organized by language (English and Chinese) and then by category.
 - `prompts/en/`: English prompts
 - `prompts/zh/`: Chinese prompts
 - Example directories: `writing/creative_writing` and `writing/academic_writing` under `prompts/zh/` contain sample Chinese prompts.
+- Additional Chinese categories such as `business/market_research`, `legal/contract_drafting`, `coding/code_review`, `education/lesson_plans`, `healthcare/patient_education` and `marketing/social_media` demonstrate more industry-focused prompts.
 
 ## Contributing
 
